@@ -1,0 +1,6 @@
+C:\shashi-test\helloworld\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\shashi-test\helloworld\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\shashi-test\helloworld\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\shashi-test\helloworld\Helloworld\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
+C:\shashi-test\helloworld\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\shashi-test\helloworld\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
